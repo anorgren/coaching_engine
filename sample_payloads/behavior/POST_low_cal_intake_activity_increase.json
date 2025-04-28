@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "user_id": "123e4567-e89b-12d3-a456-426614174999",
+    "first_name": "Taylor",
+    "age": 15
+  },
+  "metrics": [
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-14T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-15T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-16T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-17T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-18T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-19T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-20T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-21T08:00:00Z",
+      "steps": 7000,
+      "active_minutes": 60,
+      "calories_in": 2000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-22T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-23T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-24T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-25T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-26T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-27T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "123e4567-e89b-12d3-a456-426614174999",
+      "date": "2025-04-28T08:00:00Z",
+      "steps": 12000,
+      "active_minutes": 60,
+      "calories_in": 1000,
+      "sleep_hours": 7.0
+    }
+  ]
+}

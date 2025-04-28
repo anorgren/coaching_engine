@@ -1,0 +1,63 @@
+{
+  "profile": {
+    "user_id": "high_risk_user_1",
+    "first_name": "Bob",
+    "age": 17,
+    "sex": "male",
+    "height_cm": 170.0,
+    "weight_kg": 120.0,
+    "preferences": [
+      "watching TV",
+      "coffee"
+    ],
+    "health_conditions": [
+      "hypertension",
+      "prediabetes"
+    ],
+    "coach_profile": {
+      "id": "223e4567-e89b-12d3-a456-426614174001",
+      "name": "Coach Alex",
+      "description": "A motivational weight-loss coach.",
+      "instructions": "Encourage portion control and gradual activity increases.",
+      "model": "gpt-4o-mini",
+      "assistant_id": "323e4567-e89b-12d3-a456-426614174002"
+    },
+    "caretaker_id": "423e4567-e89b-12d3-a456-426614174003"
+  },
+  "daily_metrics": {
+    "user_id": "high_risk_user_1",
+    "date": "2025-04-28T07:30:00Z",
+    "steps": 2000,
+    "active_minutes": 10,
+    "calories_in": 3000,
+    "sleep_hours": 6.0,
+    "weight_kg": 120.0,
+    "emotion": "tired"
+  },
+  "goals": [
+    {
+      "id": "523e4567-e89b-12d3-a456-426614174004",
+      "user_id": "high_risk_user_1",
+      "description": "Consume no more than 1,800 kcal per day",
+      "target_value": "1800",
+      "target_unit": "kcal",
+      "metric": "calories_in",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "nutrition",
+      "period": "daily"
+    },
+    {
+      "id": "623e4567-e89b-12d3-a456-426614174005",
+      "user_id": "high_risk_user_1",
+      "description": "Walk at least 5,000 steps daily",
+      "target_value": "5000",
+      "target_unit": "steps",
+      "metric": "steps",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "steps",
+      "period": "daily"
+    }
+  ]
+}

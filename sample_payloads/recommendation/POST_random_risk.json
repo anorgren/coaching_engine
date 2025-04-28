@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "first_name": "Alice",
+    "age": 16,
+    "sex": "female",
+    "height_cm": 165.0,
+    "weight_kg": 60.0,
+    "preferences": [
+      "running",
+      "yoga"
+    ],
+    "health_conditions": [
+      "asthma"
+    ],
+    "coach_profile": {
+      "id": "660e8400-e29b-41d4-a716-446655440001",
+      "name": "Coach Emma",
+      "description": "A supportive health coach.",
+      "instructions": "Offer daily encouragement and personalized activity tips.",
+      "model": "gpt-4o-mini",
+      "assistant_id": "770e8400-e29b-41d4-a716-446655440002"
+    },
+    "caretaker_id": "880e8400-e29b-41d4-a716-446655440003"
+  },
+  "daily_metrics": {
+    "user_id": "550e8400-e29b-41d4-a716-446655440000",
+    "date": "2025-04-28T07:30:00Z",
+    "steps": 7200,
+    "active_minutes": 45,
+    "calories_in": 2000,
+    "sleep_hours": 8.0,
+    "weight_kg": 60.0,
+    "emotion": "energized"
+  },
+  "goals": [
+    {
+      "id": "990e8400-e29b-41d4-a716-446655440004",
+      "user_id": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "Walk at least 10,000 steps daily",
+      "target_value": "10000",
+      "target_unit": "steps",
+      "metric": "steps",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "steps",
+      "period": "daily"
+    },
+    {
+      "id": "aa0e8400-e29b-41d4-a716-446655440005",
+      "user_id": "550e8400-e29b-41d4-a716-446655440000",
+      "description": "Sleep 8 hours per night",
+      "target_value": "8",
+      "target_unit": "hours",
+      "metric": "sleep",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "sleep",
+      "period": "daily"
+    }
+  ]
+}

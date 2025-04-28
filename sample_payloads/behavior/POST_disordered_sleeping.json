@@ -1,0 +1,89 @@
+{
+  "profile": {
+    "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "first_name": "Jordan",
+    "age": 16
+  },
+  "metrics": [
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-01T07:00:00Z",
+      "steps": 8000,
+      "active_minutes": 60,
+      "calories_in": 2200,
+      "sleep_hours": 7.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-02T07:00:00Z",
+      "steps": 8200,
+      "active_minutes": 62,
+      "calories_in": 2100,
+      "sleep_hours": 8.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-03T07:00:00Z",
+      "steps": 7800,
+      "active_minutes": 58,
+      "calories_in": 2000,
+      "sleep_hours": 7.5
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-04T07:00:00Z",
+      "steps": 7500,
+      "active_minutes": 55,
+      "calories_in": 1950,
+      "sleep_hours": 5.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-05T07:00:00Z",
+      "steps": 7400,
+      "active_minutes": 54,
+      "calories_in": 1900,
+      "sleep_hours": 4.5
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-06T07:00:00Z",
+      "steps": 7300,
+      "active_minutes": 53,
+      "calories_in": 1850,
+      "sleep_hours": 5.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-07T07:00:00Z",
+      "steps": 7200,
+      "active_minutes": 52,
+      "calories_in": 1800,
+      "sleep_hours": 4.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-08T07:00:00Z",
+      "steps": 7100,
+      "active_minutes": 50,
+      "calories_in": 1750,
+      "sleep_hours": 5.0
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-09T07:00:00Z",
+      "steps": 7000,
+      "active_minutes": 48,
+      "calories_in": 1700,
+      "sleep_hours": 4.5
+    },
+    {
+      "user_id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "date": "2025-04-10T07:00:00Z",
+      "steps": 6900,
+      "active_minutes": 45,
+      "calories_in": 1650,
+      "sleep_hours": 3.5
+    }
+  ]
+}

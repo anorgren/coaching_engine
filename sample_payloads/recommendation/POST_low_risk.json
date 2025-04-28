@@ -1,0 +1,60 @@
+{
+  "profile": {
+    "user_id": "low_risk_user_1",
+    "first_name": "Dana",
+    "age": 19,
+    "sex": "female",
+    "height_cm": 168.0,
+    "weight_kg": 62.0,
+    "preferences": [
+      "cycling",
+      "vegetarian cooking"
+    ],
+    "health_conditions": [],
+    "coach_profile": {
+      "id": "d12e3456-f78b-90c1-2345-abcdef678901",
+      "name": "Coach Riley",
+      "description": "A coach focused on healthy maintenance.",
+      "instructions": "Encourage balanced diet and sustain current activity levels.",
+      "model": "gpt-4o-mini",
+      "assistant_id": "e23f4567-a89b-0123-4567-fedcba987654"
+    },
+    "caretaker_id": "cafe-babe-0000-0000-000000000001"
+  },
+  "daily_metrics": {
+    "user_id": "low_risk_user_1",
+    "date": "2025-04-28T07:30:00Z",
+    "steps": 12000,
+    "active_minutes": 60,
+    "calories_in": 1800,
+    "sleep_hours": 7.5,
+    "weight_kg": 62.0,
+    "emotion": "motivated"
+  },
+  "goals": [
+    {
+      "id": "g12e3456-a78b-90c1-2345-abcdef111111",
+      "user_id": "low_risk_user_1",
+      "description": "Maintain current weight at 62 kg",
+      "target_value": "62.0",
+      "target_unit": "kg",
+      "metric": "weight_kg",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "other",
+      "period": "daily"
+    },
+    {
+      "id": "g23f4567-b89c-01d2-3456-abcdef222222",
+      "user_id": "low_risk_user_1",
+      "description": "Achieve at least 150 active minutes weekly",
+      "target_value": "150",
+      "target_unit": "minutes",
+      "metric": "active_minutes",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "active_minutes",
+      "period": "weekly"
+    }
+  ]
+}

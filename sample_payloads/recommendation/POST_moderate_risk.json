@@ -1,0 +1,62 @@
+{
+  "profile": {
+    "user_id": "moderate_risk_user_1",
+    "first_name": "Ethan",
+    "age": 15,
+    "sex": "male",
+    "height_cm": 175.0,
+    "weight_kg": 85.0,
+    "preferences": [
+      "walking",
+      "swimming"
+    ],
+    "health_conditions": [
+      "prediabetes",
+      "high_cholesterol"
+    ],
+    "coach_profile": {
+      "id": "b12c3456-d78e-01f2-3456-abcdef345678",
+      "name": "Coach Jordan",
+      "description": "A coach specializing in gradual lifestyle changes.",
+      "instructions": "Promote balanced meals, moderate exercise increases, and regular check-ins.",
+      "model": "gpt-4o-mini",
+      "assistant_id": "c23d4567-e89f-0123-4567-fedcba543210"
+    },
+    "caretaker_id": "d34e5678-f90a-1234-5678-abcdef654321"
+  },
+  "daily_metrics": {
+    "user_id": "moderate_risk_user_1",
+    "date": "2025-04-28T07:30:00Z",
+    "steps": 5000,
+    "active_minutes": 30,
+    "calories_in": 2500,
+    "sleep_hours": 6.5,
+    "weight_kg": 85.0,
+    "emotion": "okay"
+  },
+  "goals": [
+    {
+      "id": "e45f6789-a01b-23c4-5678-abcdef111222",
+      "user_id": "moderate_risk_user_1",
+      "description": "Reduce daily caloric intake to 2,200 kcal",
+      "target_value": "2200",
+      "target_unit": "kcal",
+      "metric": "calories_in",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "nutrition",
+      "period": "daily"
+    },
+    {
+      "id": "f56g7890-b12c-34d5-6789-abcdef333444",
+      "user_id": "moderate_risk_user_1",
+      "description": "Achieve at least 7,000 steps daily",
+      "target_value": "7000",
+      "target_unit": "steps",
+      "metric": "steps",
+      "status": "active",
+      "start_date": "2025-04-01T00:00:00Z",
+      "type": "steps",
+      "period": "daily"
+    }
+  ]
