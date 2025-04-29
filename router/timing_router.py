@@ -15,7 +15,7 @@ router = APIRouter(
 @router.put("/")
 def update_policy_reward(request: TimingPolicyUpdate) -> None:
     """Update the reward for a specific timing policy."""
-    policy = TimingPolicyFactory.create_timing_policy(request.policy_name, request.user_id)
+    policy = TimingPolicyFactory.create_timing_policy(request.policy_type, request.user_id)
     policy.update(request.hour, request.reward)
 
 
